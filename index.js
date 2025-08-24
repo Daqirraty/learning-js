@@ -235,6 +235,12 @@ switch (fruit) {
 
                                     // ASSIGNMENT
 
+// INSTRUCTIONS:
+// 1.PULL THE LATEST CODE FROM THE REPOSITORY
+// 2.MERGE THE MAIN BRANCH INTO YOUR BRANCH, RESOLVE ANY CONFLICTS
+// 3.COMPLETE THE ASSIGNMENT BELOW
+// 4.PUSH THE CODE TO YOUR BRANCH   
+
 // 1. Write a program that:
 // Checks if the applicant’s age is 21 or older.
 // If yes, check if they have at least 2 years of experience.
